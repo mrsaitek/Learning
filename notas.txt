@@ -16,3 +16,5 @@ from. "italic"
 <s> "line through text"
 <ol> listas ordenadas (numeradas) <li></li> </ol>
 <ul> listas desordenadas (no numeradas) <li></li> </ul>
+<dl> <dt> <dd> </dl>definition list. (titulo y definicion, separado)
+<ul><ul></ul></ul> lista dentro de lista
