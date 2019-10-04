@@ -3,3 +3,16 @@
 <i> cursiva
 </br> line break
 <hr /> linea divisoria
+<blockquote> "sangrado" (no debe usarse como sangrado, mejor css para ello) para citar algo
+<strong> "strong" importance
+<em> emphasis
+<q>
+<abbr> abreviación <abbr title="_">_</abbr>
+<cite> indicate where the citation is
+from. "italic"
+<dfn> defining "italic"
+<del> line through text
+<ins> subrayar
+<s> "line through text"
+<ol> listas ordenadas (numeradas) <li></li> </ol>
+<ul> listas desordenadas (no numeradas) <li></li> </ul>
