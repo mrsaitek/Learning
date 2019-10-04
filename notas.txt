@@ -1,0 +1,5 @@
+<a href= enlace web
+<b> negrita
+<i> cursiva
+</br> line break
+<hr /> linea divisoria
