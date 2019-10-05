@@ -1,2 +1,4 @@
 notas.txt
-*.jpg
+/example/
+/images/
+.gitignore
