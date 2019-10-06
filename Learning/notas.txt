@@ -35,3 +35,10 @@ transparent gif-png
 <tbody> table body
 <tfoot> footer
 tables old codes/css
+forms (text/choices/submit)
+form control
+<form action="" method(get or post)=""</form>
+<input> (text name/size/maxlength)
+<input> (password name/size/maxlength)
+<textarea> (name="comments" cols="" rows="")</textarea> (old code/css)
+<input type="radio"
