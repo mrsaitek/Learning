@@ -37,7 +37,7 @@ transparent gif-png
 tables old codes/css
 forms (text/choices/submit)
 form control
-<form action="" method(get or post)=""</form>
+++++++ <form action="" method(get or post)=""</form>
 <input> (text name/size/maxlength)
 <input> (password name/size/maxlength)
 <textarea> (name="comments" cols="" rows="")</textarea> (old code/css)
@@ -48,3 +48,7 @@ MULTIPLE CHOICES-> <select name="" size="" multiple= "multiple"-  <option value=
 file input box -> <input type="file" name="" /> <hr />
 + <input type="submit" value="Upload"
 SUBMIT BUTTON -> <input type="submit" name="subscribe"(it doesnt need to have a name) value="Subscribe" />
+<input type="image" src="" width="" height="" (image  for the submit button)
+<button> <img src="" alt="" width="" height=""/> (text on the button) </button> PERSONALIZAR BOTONES
+<input type="hidden" NI PUTA IDEA
+
