@@ -44,3 +44,7 @@ form control
 <input type="radio" name/value/checked
 <input type="checkbox" name/value/checked
 <select name="" -  <option value="" </option>(drop down list box) </select>
+MULTIPLE CHOICES-> <select name="" size="" multiple= "multiple"-  <option value="" </option>(drop down list box) </select>
+file input box -> <input type="file" name="" /> <hr />
++ <input type="submit" value="Upload"
+SUBMIT BUTTON -> <input type="submit" name="subscribe"(it doesnt need to have a name) value="Subscribe" />
