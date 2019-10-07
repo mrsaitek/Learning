@@ -51,4 +51,10 @@ SUBMIT BUTTON -> <input type="submit" name="subscribe"(it doesnt need to have a 
 <input type="image" src="" width="" height="" (image  for the submit button)
 <button> <img src="" alt="" width="" height=""/> (text on the button) </button> PERSONALIZAR BOTONES
 <input type="hidden" NI PUTA IDEA
-
+LABELLING FORM CONTROLS (?) <label (and) for="" </label>
+GROUPING FORM ELEMENTS-> <fieldset> <legend></legend> </fieldset>
+FORM VALIDATION required="required"
+<input type="date" />
+<input type="email" />
+<input type="url" VALUE="website" />
+<input type="search" /> placeholder="(texto dentro del cuadro buscador)"
