@@ -1,6 +1,17 @@
+/*comments*/
 h1 {
-    color: rgba(255, 0, 0, 0.404);
+    color: rgba(92, 7, 7, 0.596);
 }
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+h1 {
+    background-color:darkgoldenrod
+}
+body {
+    background-color: salmon
+}
+p {
+    background-color: white
+}
+
