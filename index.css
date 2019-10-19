@@ -6,12 +6,13 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1 {
-    background-color:darkgoldenrod
+    background-color:darkgoldenrod;
 }
 body {
-    background-color: salmon
+    background-color: salmon;
+    background-color: hsl(#f99,0%,50%);
 }
 p {
-    background-color: white
+    background-color: white;
 }
 
