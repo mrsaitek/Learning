@@ -8,7 +8,6 @@ h1 {
 body {
     font-family: Verdana, sans-serif;
     background-color: salmon;
-    background-color: hsl(#f99,0%,50%);
 }
 p {
     background-color: white;
@@ -39,5 +38,18 @@ ol {
     font-style: italic;
 }
 .test {
-    text-decoration: underline;
+    text-decoration: underline; 
+    text-decoration: overline;
+    text-decoration: line-through;
+    /*Vale, si pongo más de un comando, solo se refleja el último*/
+    text-align: center;
+}
+ol{
+    line-height: 2em;
+}
+ul {
+    text-transform: uppercase;
+}
+.important{
+    word-spacing: 0.5em;
 }
