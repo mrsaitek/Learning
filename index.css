@@ -68,3 +68,6 @@ a:link{
 a:visited{
     color: black;
 }
+p {
+    font-family: Arial;
+}
