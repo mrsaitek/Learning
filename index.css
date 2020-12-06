@@ -43,6 +43,7 @@ ol {
     text-decoration: line-through;
     /*Vale, si pongo más de un comando, solo se refleja el último*/
     text-align: center;
+    letter-spacing: 2px;
 }
 ol{
     line-height: 2em;
