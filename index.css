@@ -55,4 +55,15 @@ ul {
 }
 h2{
     text-indent: 50px;
+    text-shadow: -1px 1px 1.5px #000000;
+}
+#title{
+    text-align: center;
+}
+a:link{
+    color: deeppink;
+    text-decoration:none;
+}
+a:visited{
+    color: black;
 }
